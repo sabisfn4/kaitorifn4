@@ -23,7 +23,7 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" />
     <!--メールフォーム用CSS-->
     <link rel="stylesheet" href="form/mfp.statics/mailformpro.css" type="text/css" />
-    <title>ブランド品・腕時計・宝石・貴金属の高価買取なら実績多数の買取大吉「実籾駅前店」</title>
+    <title>ブランド品・腕時計・宝石・貴金属の高価買取なら実績多数の買取大吉「実籾駅前店」</title><br>パックった大吉
     <!--[if lt IE 9]>
       <script type="text/javascript" src="js/html5shiv.min.js"></script>
       <script type="text/javascript" src="js/css3-mediaqueries.js"></script>
