@@ -6,6 +6,47 @@
     <title>買取大吉 船橋習志野4丁目店</title>
     <link rel="stylesheet" href="styles.css">
     <style>
+        /* スマホ用の調整 */
+@media screen and (max-width: 768px) {
+    body {
+        font-size: 16px; /* 文字を少し小さくする */
+        background-size: cover;
+    }
+
+    header {
+        padding: 10px; /* ヘッダーの余白を調整 */
+    }
+
+    .section {
+        padding: 15px;
+        margin: 10px auto;
+        width: 90%; /* スマホでは幅を広げる */
+    }
+
+    .social-links {
+        flex-direction: column; /* SNSリンクを縦並びにする */
+        gap: 10px;
+    }
+
+    .social-links img {
+        width: 100px; /* SNSボタンのサイズを調整 */
+        height: auto;
+    }
+
+    .map iframe {
+        height: 250px; /* マップの高さを調整 */
+    }
+
+    .contact-form input,
+    .contact-form textarea {
+        width: 90%; /* フォームの幅を広げる */
+    }
+
+    .contact-form button {
+        width: 90%;
+    }
+}
+
         body {
             font-family: Arial, sans-serif;
             font-size: 18px;
